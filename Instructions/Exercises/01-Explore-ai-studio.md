@@ -120,7 +120,7 @@ As a developer, you may spend some time working in the Foundry portal; but you'r
 
     ![Screenshot of the Microsoft Foundry Visual Studio Code extension.](../media/foundry-vs-extension.png)
 
-1. In the Foundry extension pane, use the **Set default project** button to connect to Azure (aigning in with your credentials) and select the Foundry project you created previously.
+1. In the Foundry extension pane, use the **Set default project** button to connect to Azure (signing in with your credentials) and select the Foundry project you created previously.
 1. After setting the default project, in the Foundry extension pane, expand **Models** and select the **gpt-4.1** model you deployed previously.
 
     You can view the details required to connect to and use the model here.
